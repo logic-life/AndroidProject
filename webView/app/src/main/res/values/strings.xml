@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">webView</string>
+    <string name="buttonContent">调用js中的方法</string>
+</resources>
